@@ -19,6 +19,16 @@
 - [Zoho Creator](https://www.zoho.com/creator/): Zoho Creator is a low-code app development platform that lets you launch custom, mobile-ready apps in minutes. Create your own applications to automate workflows, internal processes, and manage databases.
 - [Kony Quantum](https://www.kony.com/): Quantum is the industry leading application development platform for building unified digital experiences across all channels with consumer grade UX for mission critical applications. It combines the speed and ease of low-code development with a comprehensive set of enterprise backend services and integration capabilities.
 
+## Visionaries
+
+- [Pega Platform](https://www.pega.com/products/pega-platform): The best-in-class, rapid no-code Pega Platform is unified for building BPM, CRM, case management, and real-time decisioning apps.
+- [Betty Blocks](https://www.bettyblocks.com/): The only no-code platform for full empowerment, innovation and agility. Create mobile, business and web applications at lightning speed with Betty Blocks.
+
+## Niche Players
+
+- [Angel Point NX](https://agilepoint.com/): AgilePoint NX is the leading Low-to-no-code Application Development platform that empowers businesses to easily build responsive business applications.
+- [Quick Base](https://www.quickbase.com/): Unleash the creativity of your teams to quickly improve any process. See why thousands of the world’s best businesses trust Quick base to connect their data, processes and people.
+
 ## Open Source
 
 - [Steedos Platform](https://www.steedos.com/platform/): 华炎魔方是一款开源的管理软件开发工具，旨在通过其强大的敏捷性、灵活性和开放性帮助企业创新、扩展和集成企业业务系统。基于该平台，您可以快速创建智能化、移动化的企业应用。
