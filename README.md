@@ -2,7 +2,7 @@
 
 收集整理全球最好的低代码开发平台，以及相关的开发资源。
 
-[2019 Gartner Magic Quadrant for Enterprise Low-Code Application Platforms](./LCAP-MQ-Graphic.jpeg)
+[2019 Gartner Magic Quadrant for Enterprise Low-Code Application Platforms](https://raw.githubusercontent.com/steedos/awesome-low-code/master/LCAP-MQ-Graphic.jpeg)
 
 ## Leaders
 
@@ -16,6 +16,8 @@
 
 - [ServiceNow Platform](https://www.servicenow.com/now-platform.html): Get native platform intelligence, so you can predict, prioritize, and proactively manage the work that matters most with the Now Platform from ServiceNow.
 - [Oracle APEX](https://apex.oracle.com/en/platform/): Oracle APEX provides you with all the tools you need to build apps in a single, extensible platform, which runs as a part of Oracle Database. Discover the benefits Oracle APEX has to offer and how you can start building superior apps today.
+- [Zoho Creator](https://www.zoho.com/creator/): Zoho Creator is a low-code app development platform that lets you launch custom, mobile-ready apps in minutes. Create your own applications to automate workflows, internal processes, and manage databases.
+- [Kony Quantum](https://www.kony.com/): Quantum is the industry leading application development platform for building unified digital experiences across all channels with consumer grade UX for mission critical applications. It combines the speed and ease of low-code development with a comprehensive set of enterprise backend services and integration capabilities.
 
 ## Open Source
 
