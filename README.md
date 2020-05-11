@@ -1,4 +1,4 @@
-# Awesome Low-Code Application Platforms | 全球低代码平台开发资源汇总
+# Awesome Low-Code Application Platforms | 全球低代码平台开发资源大全
 
 收集整理全球最好的低代码开发平台，以及相关的开发资源。
 
