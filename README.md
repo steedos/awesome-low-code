@@ -36,6 +36,6 @@
 
 ## Open Source
 
-- [Steedos Platform](https://www.steedos.com/platform/): 华炎魔方是一款开源的管理软件开发工具，旨在通过其强大的敏捷性、灵活性和开放性帮助企业创新、扩展和集成企业业务系统。基于该平台，您可以快速创建智能化、移动化的企业应用。
+- [Steedos Platform](https://github.com/steedos/steedos-platform/): 华炎魔方是一款开源的管理软件开发工具，旨在通过其强大的敏捷性、灵活性和开放性帮助企业创新、扩展和集成企业业务系统。基于该平台，您可以快速创建智能化、移动化的企业应用。
 - [Odoo](https://github.com/odoo/odoo): Odoo 是一套ERP系统，基于Odoo自己的一套快速开发平台搭建。
-- [Frappe](https://frappe.io/frappe): Low Code Open Source Framework in Python and JS.
+- [Frappe](https://github.com/frappe/frappe): Low Code Open Source Framework in Python and JS.
