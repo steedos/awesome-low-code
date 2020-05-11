@@ -2,7 +2,7 @@
 
 收集整理全球最好的低代码开发平台，以及相关的开发资源。
 
-![2019 Gartner Magic Quadrant for Enterprise Low-Code Application Platforms](./LCAP-MQ-Graphic.jpeg)
+[2019 Gartner Magic Quadrant for Enterprise Low-Code Application Platforms](./LCAP-MQ-Graphic.jpeg)
 
 ## Leaders
 
